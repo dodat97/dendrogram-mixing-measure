@@ -1,4 +1,4 @@
-# dendrogram-mixing-measure
+# dendrogram-mixing-measures
 
 A [workflowr][] project.
 
